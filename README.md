@@ -1,3 +1,6 @@
+![image](https://github.com/user-attachments/assets/ee14d613-35c2-42e4-9510-7f25c24d5e53)
+
+
 # Steam-Profile-Game-Scraper
 This script allows you to scrape and display a Steam user's game library, including game names, App IDs, and hours played (if available). It fetches the data in XML format from the Steam Community and provides a detailed output of all games owned by the user.
 
